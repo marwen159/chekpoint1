@@ -1,0 +1,23 @@
+.email
+{
+  width: 50% !important;
+}
+.password
+{
+  width: 50% !important;
+}
+.sign-up-form
+{
+  width: 500px !important;
+  box-shadow: 0 0 3px rgba(0,0,0,0.3) !important;
+  background: #fff !important;
+padding: 20px !important;
+  margin:8% auto;
+
+}
+.sign-up-form h1
+{
+  color:#1c8adb;
+  margin-bottom: 30px;
+  text-align: center !important;
+}
